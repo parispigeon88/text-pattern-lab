@@ -1,0 +1,15 @@
+text-pattern-lab/
+│
+├── README.md
+├── patterns/
+│   ├── wave.txt
+│   ├── zigzag.txt
+│   └── spiral.txt
+│
+├── generators/
+│   ├── wave.py
+│   ├── zigzag.py
+│   └── repeat.py
+│
+└── tools/
+    └── mirror.py
